@@ -1,6 +1,6 @@
 ## IMST24a Teaching Materials
 
-This repository contains learning materials and solutins for the following ICT-Modules.
+This repository contains teaching materials and solutions for the following ICT-Modules.
 
 ### IT Applikationsentwicklung 
 
