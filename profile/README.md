@@ -21,6 +21,6 @@ This repository contains learning materials and solutins for the following ICT-M
 
 ### IT Web
 
-- [M293 Webauftritt erstellen und veröffentlichen](../../../../m293) (inkl. Web-Projekt)
+- [M293 Webauftritt erstellen und veröffentlichen](../../../../m293_m431) (inkl. Web-Projekt)
 - [M294 Frontend einer interaktiven Webapplikation realisieren](../../../../m294)
-- [M295 Backend für Applikationen realisieren](../../../../m293_m431)
+- [M295 Backend für Applikationen realisieren](../../../../m295)
